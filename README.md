@@ -53,8 +53,8 @@ Each lab folder contains:
 
 If you’re a recruiter, instructor, or fellow learner—feel free to connect!
 
-- LinkedIn: [Your LinkedIn Here]
-- GitHub: [https://github.com/stylesc914
+- LinkedIn: https://www.linkedin.com/in/colin-james-byrne
+- GitHub: https://github.com/stylesc914
 ---
 
 > 🔐 "The best way to learn cybersecurity is to break it... then fix it."
